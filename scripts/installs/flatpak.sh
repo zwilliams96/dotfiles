@@ -29,18 +29,9 @@ flatpak_apps=(
 
   # Communication
   'com.discordapp.Discord'    # Team messaging and voice
-  'im.riot.Riot'              # Decentralized Matrix chat
-  'info.mumble.Mumble'        # Low latency VoIP client
-  'org.jitsi.jitsi-meet'      # Encrypted video calls
-  'org.mozilla.Thunderbird'   # Email + calendar client
-  'org.signal.Signal'         # Private messenger, mobile
-  'im.pidgin.Pidgin'          # Extendable XMPP chat client
-  'com.slack.Slack'           # Work and team messaging
-  'com.github.eneshecan.WhatsAppForLinux' # WhatApp client
 
   # Media
   'com.spotify.Client'        # Music streaming
-  'com.valvesoftware.Steam'   # Gaming
   'com.gitlab.newsflash'      # RSS reader
   'org.gnome.Cheese'          # Webcam client
   'org.libretro.RetroArch'    # Retro game emulation
@@ -52,7 +43,6 @@ flatpak_apps=(
   'com.ultimaker.cura'        # 3D slicing
   'com.obsproject.Studio'     # Video streaming
   'com.jgraph.drawio.desktop' # UML + Diagram tool
-  'com.transmissionbt.Transmission' # Torrent downloader
   'com.uploadedlobster.peek'  # Screen recorder
   'fr.handbrake.ghb'          # Video transcoder
   'nl.hjdskes.gcolor3'        # Color picker
@@ -70,7 +60,6 @@ flatpak_apps=(
   'com.getpostman.Postman'    # API development
   'cc.arduino.IDE2'           # IOT development
   'com.axosoft.GitKraken'     # GUI git client
-  'com.google.AndroidStudio'  # Android dev IDE
   'flathub org.gnome.GHex'    # Hex and binary inspector
   'io.podman_desktop.PodmanDesktop' # Docker / Podman UI
   
@@ -92,18 +81,6 @@ flatpak_apps=(
   'com.github.micahflee.torbrowser-launcher' # Tor browser
   'org.filezillaproject.Filezilla' # FTP client
 
-  # Office
-  'org.libreoffice.LibreOffice' # Office suite
-  'net.xm1math.Texmaker'        # LaTeX editor
-  'md.obsidian.Obsidian'        # Markdown editor
-  
-  # Personal
-  'ch.protonmail.protonmail-bridge' # ProtonMail bridge
-  'com.belmoussaoui.Authenticator'  # OTP authenticator
-  'org.cryptomator.Cryptomator'     # Encryption for cloud
-  'org.standardnotes.standardnotes' # Encrypted synced notes
-  'com.onepassword.OnePassword'     # Password manager
-  # Missing: Trewsorit, EteSync, Veracrypt, Ledger
 )
 
 # Color Variables

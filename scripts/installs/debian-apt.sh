@@ -21,6 +21,7 @@ debian_apps=(
   'neovim'        # Text editor
   'ranger'        # Directory browser
   'tmux'          # Term multiplexer
+  'terminator'    # Terminator app
   'wget'          # Download files
 
   # CLI Power Basics
